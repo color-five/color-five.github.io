@@ -1,0 +1,11 @@
+{
+    "servers": {
+        "matlab-mcp": {
+            "command": "C:/qq_download/matlab-mcp/matlab-mcp-core-server-win64.exe",
+            "args": [
+                "--matlab-root",
+                "E:/Program Files/MATLAB/R2025a"
+            ]
+        }
+    }
+}
